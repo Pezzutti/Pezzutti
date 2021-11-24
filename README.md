@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pezzutti
 - 👀 I’m interested in Gaming, Music, Cinema, Technology and Science.
-- 🌱 I’m currently learning Docker and REST.
-- 💞️ I’m looking to collaborate on .Net projects.
+- 🌱 I’m currently learning Python.
+- 💞️ I’m looking to collaborate on .Net and Python projects.
 - 📫 How to reach me: jp.pezzutti@gmail.com
 
 <!---
